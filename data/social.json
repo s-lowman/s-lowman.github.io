@@ -1,0 +1,14 @@
+{
+  "links": [
+    {
+      "name": "github",
+      "url": "https://github.com/s-lowman",
+      "image": "images/social/github.svg"
+    },
+    {
+      "name": "hachyderm",
+      "url": "https://hachyderm.io/@slowman",
+      "image": "https://hachyderm.io/packs/media/images/elephant_ui_plane-72f8702db120a51a1cdbc4fb7f5ef59d.svg"
+    }
+  ]
+}
